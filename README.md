@@ -16,5 +16,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6967892086490607616" height="1154" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
