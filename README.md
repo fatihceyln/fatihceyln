@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-<h3 align="center">I have a great passion about IOS development!</h3>
+<h3 align="center">I have a great passion about iOS development!</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@fatihcyln](https://medium.com/@fatihcyln)
 
