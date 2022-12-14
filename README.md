@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">I have a great passion about iOS development!</h3>
 
+- I'm iOS Developer @ [Kuka Apps](https://kukapps.com)
+
 - 📝 I regularly write articles on [https://medium.com/@fatihcyln](https://medium.com/@fatihcyln)
 
 - 💬 Ask me about **Swift, UIKit, SwiftUI**
